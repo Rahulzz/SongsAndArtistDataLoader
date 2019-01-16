@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "id": 1332,
+      "title": "(I Can't Get No) Satisfaction",
+      "artist": { "id": 435, "name": "The Rolling Stones" },
+      "imagePath": "https://cdn1.songx.co/2f/23/c8/39/cb12d8cac1.jpg",
+      "available": true,
+      "songxCount": 453
+    },
+    {
+      "id": 796,
+      "title": "(I Just) Died In Your Arms Tonight",
+      "artist": { "id": 445, "name": "Cutting Crew" },
+      "imagePath": "https://cdn1.songx.co/1a/ec/5d/92/aaeeec9cd0.jpg",
+      "available": true,
+      "songxCount": 467
+    },
+    {
+      "id": 3647,
+      "title": "(I Know) I'm Losing You",
+      "artist": { "id": 173, "name": "The Temptations" },
+      "imagePath": "https://cdn1.songx.co/ea/79/bc/f1/cf2030bc46.jpg",
+      "available": true,
+      "songxCount": 10
+    },
+    {
+      "id": 795,
+      "title": "(I Never Promised You A) Rose Garden",
+      "artist": { "id": 205, "name": "Martina McBride" },
+      "imagePath": "https://cdn1.songx.co/59/f7/22/ac/3bb54a4829.jpg",
+      "available": true,
+      "songxCount": 488
+    }
+]
+}
